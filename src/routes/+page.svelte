@@ -1,2 +1,7 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<svelte:head>
+  <title>home</title>
+</svelte:head>
+
+<h1>home</h1>
+
+<p>hovering <a href="/foo">this link</a> changes the page title</p>
